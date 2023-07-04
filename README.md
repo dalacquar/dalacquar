@@ -2,12 +2,12 @@
 
 <h1> Hello. I'm Rafael Dalacqua. :wave: </h1>
 <h2> I'm an IT technician currently in my 6th semester of Computer Science. Passionate about software engineering and development. </h2>
-<div widht="50px">
+<div>
   <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=dalacquar&theme=chartreuse-dark"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalacquar&hide_progress=false&theme=chartreuse-dark"/>
 </div>
 <br>
-<h2> Skills </h2>
+<h2 class="padding-top-10"> Skills </h2>
 <div>
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
