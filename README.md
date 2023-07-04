@@ -18,7 +18,7 @@
 </div>
 <h2> Social </h2>
 <div>
-  <a target="_blank" href="instagram.com/dalacquar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a target="_blank" href="htttps://www.instagram.com/dalacquar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a target="_blank" href="https://www.linkedin.com/in/rafael-dalacqua-07761921b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
 
