@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" type="text/css" href="./css.css">
+
 <h1> Hello. I'm Rafael Dalacqua. :wave: </h1>
 <h2> I'm an IT technician currently in my 6th semester of Computer Science. Passionate about software engineering and development. </h2>
 <div widht="50px">
@@ -16,6 +17,11 @@
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
+<h2> Currently working with: </h2>
+<div>
+  <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 <h2> Social </h2>
 <div>
