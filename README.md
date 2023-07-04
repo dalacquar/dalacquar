@@ -3,7 +3,7 @@
 <h2> I'm an IT technician currently in my 6th semester of Computer Science. Passionate about software engineering and development. </h2>
 <div widht="50px">
   <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=dalacquar&theme=chartreuse-dark"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalacquar&hide_progress=false&theme=chartreuse-dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalacquar&hide_progress=false&theme=chartreuse-dark"/>
 </div>
 <h2> Skills </h2>
 <div>
