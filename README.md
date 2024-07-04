@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="./css.css">
 
-<h1> Hello. I'm Rafael Dalacqua. :wave: </h1>
-<h2> I'm an IT technician currently in my 7th semester of Computer Science. Passionate about software engineering and development. </h2>
+<h1> Olá! Me chamo Rafael Dalacqua. :wave: </h1>
+<h2> Sou técnico em informática e atualmente estou cursando o último semestre de Ciência da Computação. Apaixonado por engenharia e desenvolvimento de software. </h2>
 <div>
   <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=dalacquar&theme=chartreuse-dark"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalacquar&hide_progress=false&theme=chartreuse-dark"/>
@@ -18,7 +18,7 @@
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
-<h2> Currently working with: </h2>
+<h2> Atualmente trabalhando com: </h2>
 <div>
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
